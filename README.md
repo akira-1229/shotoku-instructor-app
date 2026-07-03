@@ -1,1 +1,0 @@
-# shotoku-instructor-app
